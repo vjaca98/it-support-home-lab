@@ -53,10 +53,10 @@ it-support-home-lab/
 | Ticket ID | Scenario | Status |
 |---|---|---|
 | INC-001 | Windows Login Failure | Completed |
-| INC-002 | Outlook Synchronization Issue | Planned |
+| INC-002 | Outlook Synchronization Issue | Completed |
 | INC-003 | Printer Offline | Planned |
-| INC-004 | Shared Folder Access | Planned |
-| INC-005 | Slow Computer | Planned |
+| INC-004 | Shared Folder Access | Completed |
+| INC-005 | Slow Computer | Completed |
 
 ## Learning Outcomes
 
